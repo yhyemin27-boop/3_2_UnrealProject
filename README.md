@@ -26,6 +26,8 @@ MyPlayer.cpp
 캐릭터 이동과 카메라 컴포넌트를 이용해서 1인칭 설정을 하며, 키 입력을 통해 Line Trace을 수행하여 증거 배열에 있는 것들이 입력되면 해당 증거가 true가 되어 인벤토리 창에 나타나게 되며,획득된 아이템은 다시 획득되지 않습니다.
 만약 Line Trace가 NPC이면 대화를 시작하며, InitiateDialogue을 시작합니다.
 
+<img width="389" height="416" alt="image" src="https://github.com/user-attachments/assets/7e5373bf-9782-4fa8-997f-a8154d9f8310" />
+
 
 외부 에셋 :\
 Isometric - Interiors | Fab - 원룸3곳\
